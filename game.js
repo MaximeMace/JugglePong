@@ -150,6 +150,7 @@ class Game extends Phaser.Scene {
         this.isGameOver();
     }
 
+
     /**
      * Generate ball
      */
