@@ -13,7 +13,9 @@ Racket game for training dexterity, fully playable on computer and touch screen 
 
 - The current version of the game offers an infinite game mode in which you have to make the highest score.
 
-![example](./example.png)
+![example1](./example1.png)
+
+![example2](./example2.png)
 
 
 
